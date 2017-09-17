@@ -4,7 +4,7 @@ using System.Drawing;
 namespace IndependentLineDrawer
 {
     /// <summary>
-    ///  I analyzed the following solution to understand the implementation of the A* algorithm
+    /// I analyzed the following solution to understand the implementation of the A* algorithm
     /// 1. the heuristic distance calculation,
     /// 2. the stateful node for tracking the path,
     /// https://www.codeproject.com/Articles/15307/A-algorithm-implementation-in-C
